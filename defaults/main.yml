@@ -1,0 +1,2 @@
+# Run every day at 10:05am
+gitlab_cleanup_cron: "5 10 * * *"

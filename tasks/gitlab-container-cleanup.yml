@@ -1,0 +1,4 @@
+- name: Install cronjob
+  template:
+    src: cleanup_cronjob
+    dest: /etc/cron.d/gitlab-container-registry-cleanup

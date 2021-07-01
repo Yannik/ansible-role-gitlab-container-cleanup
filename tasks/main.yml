@@ -1,0 +1,2 @@
+- import_tasks: gitlab-container-cleanup.yml
+  tags: gitlab-container-cleanup
